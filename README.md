@@ -66,3 +66,14 @@ month = {June},
 year = {2019}
 }
 ```
+
+===========
+
+Python:
+* pip install imageio
+
+Pre-trained model:
+* VGG16 backbone (CPD.pth): [google drive](https://drive.google.com/open?id=1ddopz30_sNPOb0MvTCoNwZwL-oQDMGIW), [BaiduYun](https://pan.baidu.com/s/18qF_tpyRfbgZ0YLleP8c5A) (code: gb5u). Put the file under the same place as test_CPD.py
+
+Command line:
+* python test_CPD.py

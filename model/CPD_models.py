@@ -1,8 +1,8 @@
 import torch
 import torch.nn as nn
 
-from HolisticAttention import HA
-from vgg import B2_VGG
+from model.HolisticAttention import HA
+from model.vgg import B2_VGG
 
 
 class RFB(nn.Module):
